@@ -1,0 +1,61 @@
+# Gyde Voice AI Cross-Sell Agent - Requirements
+
+# Core dependencies (required)
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Audio simulation (optional - for demo purposes)
+gTTS>=2.4.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24.0
+
+# Production dependencies (not needed for POC)
+# Uncomment for production deployment:
+
+# aiohttp>=3.9.0              # Async HTTP client
+# requests>=2.31.0            # HTTP client
+# asyncio>=3.4.3              # Async support
+# flask>=3.0.0                # Webhook server
+# gunicorn>=21.2.0            # Production WSGI server
+
+# Database
+# psycopg2-binary>=2.9.9      # PostgreSQL adapter
+# sqlalchemy>=2.0.23          # ORM
+# alembic>=1.13.0             # Database migrations
+# redis>=5.0.1                # Cache and session store
+
+# Telephony
+# twilio>=8.10.0              # Twilio Voice API
+# bland-ai>=0.1.0             # Bland AI SDK (if available)
+
+# Speech & AI
+# deepgram-sdk>=3.0.0         # Speech-to-text
+# elevenlabs>=0.2.27          # Text-to-speech
+# anthropic>=0.7.0            # Claude API (alternative LLM)
+
+# Integrations
+# simple-salesforce>=1.12.5   # Salesforce CRM
+# calendly-api>=0.1.0         # Scheduling
+
+# Monitoring & Logging
+# sentry-sdk>=1.39.0          # Error tracking
+# datadog>=0.48.0             # Metrics and monitoring
+# python-json-logger>=2.0.7   # Structured logging
+
+# Testing
+# pytest>=7.4.3               # Test framework
+# pytest-asyncio>=0.21.1      # Async test support
+# pytest-cov>=4.1.0           # Coverage reporting
+# pytest-mock>=3.12.0         # Mocking
+
+# Security
+# cryptography>=41.0.7        # Encryption
+# pyjwt>=2.8.0                # JWT tokens
+# bcrypt>=4.1.1               # Password hashing
+
+# Utilities
+# pydantic>=2.5.0             # Data validation
+# python-dateutil>=2.8.2      # Date utilities
+# phonenumbers>=8.13.26       # Phone number validation
+# pytz>=2023.3                # Timezone support

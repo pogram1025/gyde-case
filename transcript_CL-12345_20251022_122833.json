@@ -1,0 +1,89 @@
+{
+  "client_id": "CL-12345",
+  "client_name": "Sarah Martinez",
+  "call_start": "2025-10-22T12:28:06.344753",
+  "call_end": "2025-10-22T12:28:33.130489",
+  "duration_seconds": 26,
+  "appointment_scheduled": true,
+  "appointment_time": "Thursday at 2pm",
+  "conversation": [
+    {
+      "timestamp": "2025-10-22T12:28:07.594844",
+      "speaker": "agent",
+      "text": "Hi Sarah, this is Emma calling from Michael Chen's office. How are you doing today?",
+      "audio_file": "audio_output\\agent_intro.mp3"
+    },
+    {
+      "timestamp": "2025-10-22T12:28:09.614174",
+      "speaker": "client",
+      "text": "I'm doing well, thanks. What's this about?",
+      "audio_file": null
+    },
+    {
+      "timestamp": "2025-10-22T12:28:11.346808",
+      "speaker": "agent",
+      "text": "I wanted to reach out because you're currently enrolled in our Silver Select 2024 health plan. I noticed you might be eligible for some additional coverage options that could benefit you. Do you have a couple minutes to chat?",
+      "audio_file": "audio_output\\agent_verify.mp3"
+    },
+    {
+      "timestamp": "2025-10-22T12:28:13.358854",
+      "speaker": "client",
+      "text": "Sure, I have a couple minutes.",
+      "audio_file": null
+    },
+    {
+      "timestamp": "2025-10-22T12:28:15.766236",
+      "speaker": "agent",
+      "text": "Great! I see you don't currently have dental or vision coverage through us. Many of our ACA clients add these for comprehensive protection. Dental coverage starts at just $25/month and vision at $15/month. Since you have a spouse on your plan, you could cover both of you. Have you had any dental or vision expenses recently?",
+      "audio_file": "audio_output\\agent_present.mp3"
+    },
+    {
+      "timestamp": "2025-10-22T12:28:17.781127",
+      "speaker": "client",
+      "text": "I did have a dental cleaning a few months ago. What's the coverage like?",
+      "audio_file": null
+    },
+    {
+      "timestamp": "2025-10-22T12:28:20.426463",
+      "speaker": "agent",
+      "text": "I completely understand. These plans can really help with routine care - cleanings, exams, glasses, contacts. Plus they're separate from your ACA deductible, so you get immediate benefits. Would it make sense to have Michael Chen walk you through the specific plan options and pricing for your situation?",
+      "audio_file": "audio_output\\agent_qualify.mp3"
+    },
+    {
+      "timestamp": "2025-10-22T12:28:22.429140",
+      "speaker": "client",
+      "text": "Yes, that would be helpful to learn more about the options.",
+      "audio_file": null
+    },
+    {
+      "timestamp": "2025-10-22T12:28:24.197527",
+      "speaker": "agent",
+      "text": "Perfect! Let me get you scheduled. Michael Chen has availability this week. Would Thursday at 2pm or Friday at 10am work better for you?",
+      "audio_file": "audio_output\\agent_schedule.mp3"
+    },
+    {
+      "timestamp": "2025-10-22T12:28:26.213712",
+      "speaker": "client",
+      "text": "Thursday at 2pm works for me.",
+      "audio_file": null
+    },
+    {
+      "timestamp": "2025-10-22T12:28:28.377035",
+      "speaker": "agent",
+      "text": "Excellent! I've got you scheduled for Thursday at 2pm. You'll receive a calendar invite at sarah.m@example.com, and Michael Chen will call you then. He'll have all your information ready and can enroll you right on that call if you decide to move forward. Is there anything else I can help with today?",
+      "audio_file": "audio_output\\agent_confirm.mp3"
+    },
+    {
+      "timestamp": "2025-10-22T12:28:30.388210",
+      "speaker": "client",
+      "text": "No, that's all. Thank you!",
+      "audio_file": null
+    },
+    {
+      "timestamp": "2025-10-22T12:28:31.623788",
+      "speaker": "agent",
+      "text": "Great talking with you, Sarah! Have a wonderful day and we'll talk to you Thursday!",
+      "audio_file": "audio_output\\agent_close.mp3"
+    }
+  ]
+}

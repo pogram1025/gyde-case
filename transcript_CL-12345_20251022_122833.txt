@@ -1,0 +1,38 @@
+GYDE VOICE AI CALL TRANSCRIPT
+======================================================================
+
+Client: Sarah Martinez
+Call Date: 2025-10-22 12:28:06
+Duration: 26 seconds
+
+======================================================================
+
+AGENT: Hi Sarah, this is Emma calling from Michael Chen's office. How are you doing today?
+
+SARAH: I'm doing well, thanks. What's this about?
+
+AGENT: I wanted to reach out because you're currently enrolled in our Silver Select 2024 health plan. I noticed you might be eligible for some additional coverage options that could benefit you. Do you have a couple minutes to chat?
+
+SARAH: Sure, I have a couple minutes.
+
+AGENT: Great! I see you don't currently have dental or vision coverage through us. Many of our ACA clients add these for comprehensive protection. Dental coverage starts at just $25/month and vision at $15/month. Since you have a spouse on your plan, you could cover both of you. Have you had any dental or vision expenses recently?
+
+SARAH: I did have a dental cleaning a few months ago. What's the coverage like?
+
+AGENT: I completely understand. These plans can really help with routine care - cleanings, exams, glasses, contacts. Plus they're separate from your ACA deductible, so you get immediate benefits. Would it make sense to have Michael Chen walk you through the specific plan options and pricing for your situation?
+
+SARAH: Yes, that would be helpful to learn more about the options.
+
+AGENT: Perfect! Let me get you scheduled. Michael Chen has availability this week. Would Thursday at 2pm or Friday at 10am work better for you?
+
+SARAH: Thursday at 2pm works for me.
+
+AGENT: Excellent! I've got you scheduled for Thursday at 2pm. You'll receive a calendar invite at sarah.m@example.com, and Michael Chen will call you then. He'll have all your information ready and can enroll you right on that call if you decide to move forward. Is there anything else I can help with today?
+
+SARAH: No, that's all. Thank you!
+
+AGENT: Great talking with you, Sarah! Have a wonderful day and we'll talk to you Thursday!
+
+======================================================================
+OUTCOME: Appointment Scheduled
+Appointment: Thursday at 2pm
